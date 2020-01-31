@@ -1,0 +1,13 @@
+1) An app that runs in command prompt instead of using GUI
+2)The Main method designates the program’s entry point.
+3)container for items such as classes
+4)A using directive brings a namespace into scope
+5)An assembly is a file that usually has the .dll file name extension. An assembly can contain many classes. 
+6)An assembly needs a refrence to be used in a class, so it needs a namespace to be corallated with.
+7) Graphical app is and application used in UWP it lets you create any apps on any device.
+8) To start Visual Studio 2019 
+9)This action compiles the C# code, resulting in a program that you can run.
+10)Bytecode is code for java while CIL is the same thing as MSIL and they are very similiar to Bytecode but not exact. They both serve the same purpose of defining an abstract target machine 
+Bytecode uses java
+https://docs.microsoft.com/en-us/archive/blogs/brada/whats-the-differnece-between-cil-and-msil
+11)It lets you room through the program and go through the bugs to fix them.

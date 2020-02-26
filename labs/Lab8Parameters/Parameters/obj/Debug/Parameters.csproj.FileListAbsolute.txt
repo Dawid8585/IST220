@@ -1,0 +1,14 @@
+C:\Users\perko\ista220\Labs\Parameters\Parameters\bin\Debug\Parameters.exe.config
+C:\Users\perko\ista220\Labs\Parameters\Parameters\bin\Debug\Parameters.exe
+C:\Users\perko\ista220\Labs\Parameters\Parameters\bin\Debug\Parameters.pdb
+C:\Users\perko\ista220\Labs\Parameters\Parameters\obj\Debug\Parameters.csprojAssemblyReference.cache
+C:\Users\perko\ista220\Labs\Parameters\Parameters\obj\Debug\Parameters.csproj.CoreCompileInputs.cache
+C:\Users\perko\ista220\Labs\Parameters\Parameters\obj\Debug\Parameters.exe
+C:\Users\perko\ista220\Labs\Parameters\Parameters\obj\Debug\Parameters.pdb
+C:\Users\perko\ista220\Labs\Lab8Parameters\Parameters\bin\Debug\Parameters.exe.config
+C:\Users\perko\ista220\Labs\Lab8Parameters\Parameters\bin\Debug\Parameters.exe
+C:\Users\perko\ista220\Labs\Lab8Parameters\Parameters\bin\Debug\Parameters.pdb
+C:\Users\perko\ista220\Labs\Lab8Parameters\Parameters\obj\Debug\Parameters.csprojAssemblyReference.cache
+C:\Users\perko\ista220\Labs\Lab8Parameters\Parameters\obj\Debug\Parameters.csproj.CoreCompileInputs.cache
+C:\Users\perko\ista220\Labs\Lab8Parameters\Parameters\obj\Debug\Parameters.exe
+C:\Users\perko\ista220\Labs\Lab8Parameters\Parameters\obj\Debug\Parameters.pdb

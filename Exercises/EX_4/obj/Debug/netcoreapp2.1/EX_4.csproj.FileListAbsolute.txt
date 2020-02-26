@@ -1,0 +1,11 @@
+C:\Users\perko\ista220\Exercises\EX_4\obj\Debug\netcoreapp2.1\EX_4.csprojAssemblyReference.cache
+C:\Users\perko\ista220\Exercises\EX_4\obj\Debug\netcoreapp2.1\EX_4.csproj.CoreCompileInputs.cache
+C:\Users\perko\ista220\Exercises\EX_4\obj\Debug\netcoreapp2.1\EX_4.AssemblyInfoInputs.cache
+C:\Users\perko\ista220\Exercises\EX_4\obj\Debug\netcoreapp2.1\EX_4.AssemblyInfo.cs
+C:\Users\perko\ista220\Exercises\EX_4\bin\Debug\netcoreapp2.1\EX_4.deps.json
+C:\Users\perko\ista220\Exercises\EX_4\bin\Debug\netcoreapp2.1\EX_4.runtimeconfig.json
+C:\Users\perko\ista220\Exercises\EX_4\bin\Debug\netcoreapp2.1\EX_4.runtimeconfig.dev.json
+C:\Users\perko\ista220\Exercises\EX_4\bin\Debug\netcoreapp2.1\EX_4.dll
+C:\Users\perko\ista220\Exercises\EX_4\bin\Debug\netcoreapp2.1\EX_4.pdb
+C:\Users\perko\ista220\Exercises\EX_4\obj\Debug\netcoreapp2.1\EX_4.dll
+C:\Users\perko\ista220\Exercises\EX_4\obj\Debug\netcoreapp2.1\EX_4.pdb

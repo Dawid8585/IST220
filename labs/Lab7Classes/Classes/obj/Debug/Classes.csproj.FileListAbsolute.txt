@@ -1,0 +1,7 @@
+C:\Users\perko\ista220\Labs\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\perko\ista220\Labs\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\perko\ista220\Labs\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\perko\ista220\Labs\Classes\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\perko\ista220\Labs\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\perko\ista220\Labs\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\perko\ista220\Labs\Classes\Classes\obj\Debug\Classes.pdb

@@ -1,0 +1,11 @@
+C:\Users\perko\ista220\Quiz\quiz_5\bin\Debug\netcoreapp2.1\quiz_5.deps.json
+C:\Users\perko\ista220\Quiz\quiz_5\bin\Debug\netcoreapp2.1\quiz_5.runtimeconfig.json
+C:\Users\perko\ista220\Quiz\quiz_5\bin\Debug\netcoreapp2.1\quiz_5.runtimeconfig.dev.json
+C:\Users\perko\ista220\Quiz\quiz_5\bin\Debug\netcoreapp2.1\quiz_5.dll
+C:\Users\perko\ista220\Quiz\quiz_5\bin\Debug\netcoreapp2.1\quiz_5.pdb
+C:\Users\perko\ista220\Quiz\quiz_5\obj\Debug\netcoreapp2.1\quiz_5.csprojAssemblyReference.cache
+C:\Users\perko\ista220\Quiz\quiz_5\obj\Debug\netcoreapp2.1\quiz_5.csproj.CoreCompileInputs.cache
+C:\Users\perko\ista220\Quiz\quiz_5\obj\Debug\netcoreapp2.1\quiz_5.AssemblyInfoInputs.cache
+C:\Users\perko\ista220\Quiz\quiz_5\obj\Debug\netcoreapp2.1\quiz_5.AssemblyInfo.cs
+C:\Users\perko\ista220\Quiz\quiz_5\obj\Debug\netcoreapp2.1\quiz_5.dll
+C:\Users\perko\ista220\Quiz\quiz_5\obj\Debug\netcoreapp2.1\quiz_5.pdb

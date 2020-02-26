@@ -1,0 +1,7 @@
+C:\Users\perko\Desktop\MSSA\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 12\Vehicles\Vehicles\bin\Debug\Vehicles.exe.config
+C:\Users\perko\Desktop\MSSA\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 12\Vehicles\Vehicles\bin\Debug\Vehicles.exe
+C:\Users\perko\Desktop\MSSA\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 12\Vehicles\Vehicles\bin\Debug\Vehicles.pdb
+C:\Users\perko\Desktop\MSSA\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 12\Vehicles\Vehicles\obj\Debug\Vehicles.csprojAssemblyReference.cache
+C:\Users\perko\Desktop\MSSA\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 12\Vehicles\Vehicles\obj\Debug\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\perko\Desktop\MSSA\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 12\Vehicles\Vehicles\obj\Debug\Vehicles.exe
+C:\Users\perko\Desktop\MSSA\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 12\Vehicles\Vehicles\obj\Debug\Vehicles.pdb
